@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Pramodh
 
-The log of my #100DaysOfCode challenge. Started on [Dec 28, Thursday, 2017].
+The log of my #100DaysOfCode challenge. Started on [Jan 23, Tueday, 2018].
 
 ## Resources
 
@@ -22,4 +22,5 @@ The log of my #100DaysOfCode challenge. Started on [Dec 28, Thursday, 2017].
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
-### R1D1
+### R1D1, Jan 23, 2018
+Solved 3 leetcode problems
